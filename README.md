@@ -7,8 +7,8 @@ A new Flutter project.
 This project is a Simple todoApp
 
 <p align="center">
-  <img src="/assets/todo1.png" width="350" title="hover text">
-  <img src="/assets/todo2.png" width="350" title="hover text">
-  <img src="/assets/todo3.png" width="350" title="hover text">
-  <img src="/assets/todo4.png" width="350" title="hover text">
+  <img src="/assets/images/todo1.png" width="350" title="hover text">
+  <img src="/assets/images/todo2.png" width="350" title="hover text">
+  <img src="/assets/images/todo3.png" width="350" title="hover text">
+  <img src="/assets/images/todo4.png" width="350" title="hover text">
 </p>
